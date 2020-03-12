@@ -1,0 +1,4 @@
+virtual/
+*.pyc 
+instance/
+#excluding our virtual enviroment since our pro dir are sensitive
